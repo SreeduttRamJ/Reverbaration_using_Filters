@@ -10,7 +10,7 @@ The objective of this project is to implement a reverberation phenomenon in MATL
 In this project we are going to implement a reverberation phenomenon in MATLAB programming environment. Reverberation, a fundamental audio effect, simulates the sound reflections encountered in enclosed spaces. Our approach focuses on designing a feedback delay network (FDN) based on Infinite Impulse Response (IIR) filters to create the reverberation phenomenon and analyze it to find how the filter creates reverberation. This work contributes to the field of audio signal processing and provides insights into the design and implementation of IIR-based echoing effects. Future research may explore advanced techniques for enhancing the realism and spatialization of echoes using additional signal processing algorithms.
 
 <p align="center">
-  <img src="/docs/abstract.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 500px;"/>
+  <img src="/img/image.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 500px;"/>
   <p align="center">Fig. 1: An echo-y sound environment: The audio reflections of a person's voice are heard coming from different mountains.</p>
 </p>
 
