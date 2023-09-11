@@ -1,18 +1,13 @@
-# Reverbaration_using_Filters
-<h1 align="center">Simulating Environmental Echo Effects on Audio Signals Using <br> Digital Filters : Modeling Reverberation Characteristics</h1>
-<h2 align="center">or</h2><h1 align="center">Audio Echo Modelling</h1>
+
+<h1 align="center">Study of reverberation phenomenon using IIR filters</h1>
   
-## Overview
-
-Audio-Echo-Modelling is a research project focused on simulating environmental echo effects on audio signals using digital filters. The project explores the impact of physical environments, like mountainous regions, on sound propagation and the creation of reverberative effects. By employing Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters, we aim to recreate the echoes produced when a person calls out in a mountain range.
-
 ## Objective
 
-The primary objective of this study is to investigate the underlying mechanisms of audio signal processing related to echo generation and perception in diverse physical settings. We analyze how digital filters can accurately replicate the echoes that occur in real-world environments, providing valuable insights into the field of audio processing.
+The objective of this project is to implement a reverberation phenomenon in MATLAB programming environment using a feedback delay network (FDN) based on Infinite Impulse Response (IIR) filters. The goal is to simulate sound reflections encountered in enclosed spaces and analyze how the IIR filters create reverberation.
 
 # Abstract
 
-This project explores the simulation of environmental echo effects on audio signals using digital filters, aiming to replicate echoes found in mountainous areas when a person calls out. Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters are employed, with MATLAB used for implementation and "countdownfrom.mp3" as input. The results confirm the presence of disassembled echoes compared to the original audio. The research sheds light on audio signal processing mechanisms and the perception of echoes in diverse settings, contributing to advancements in audio processing and applications such as acoustic design and virtual reality audio experiences.
+In this project we are going to implement a reverberation phenomenon in MATLAB programming environment. Reverberation, a fundamental audio effect, simulates the sound reflections encountered in enclosed spaces. Our approach focuses on designing a feedback delay network (FDN) based on Infinite Impulse Response (IIR) filters to create the reverberation phenomenon and analyze it to find how the filter creates reverberation. This work contributes to the field of audio signal processing and provides insights into the design and implementation of IIR-based echoing effects. Future research may explore advanced techniques for enhancing the realism and spatialization of echoes using additional signal processing algorithms.
 
 <p align="center">
   <img src="/docs/abstract.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 500px;"/>
